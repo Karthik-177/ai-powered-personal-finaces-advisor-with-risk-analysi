@@ -1,4 +1,4 @@
-AI-Powered Personal Finance Advisor with Risk Analysis
+#AI-Powered Personal Finance Advisor with Risk Analysis
 This project is an AI-driven personal finance advisory system designed to provide personalized financial planning and investment strategies tailored to individual users and small businesses. By leveraging advanced machine learning models and risk analysis techniques, the system offers real-time assessments of market conditions and user-specific financial profiles to help optimize financial decisions.
 
 Key Features
